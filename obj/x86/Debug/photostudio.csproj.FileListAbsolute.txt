@@ -1,0 +1,40 @@
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\bin\Debug\photostudio.exe.config
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\bin\Debug\photostudio.exe
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\bin\Debug\photostudio.pdb
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\photostudio.Studio.resources
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\photostudio.master.resources
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\photostudio.Properties.Resources.resources
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\GenerateResource.write.1.tlog
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\photostudio.exe
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\photostudio.pdb
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\photostudio.Customer.resources
+\\ANVESH-PC\GVM_Shared\photostudio\photostudio\obj\x86\Debug\photostudio.Photo_size.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\bin\Debug\photostudio.exe.config
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\bin\Debug\photostudio.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\bin\Debug\photostudio.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Customer.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Photo_size.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Studio.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.master.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Login.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Change_Password.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Expense.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Income.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Bill.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Customer_name.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.cust_bystatus_report.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.branch_totalincome.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Expense_report.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Balanced_sheet.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.Employee.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\photostudio\photostudio\obj\x86\Debug\photostudio.master1.resources
